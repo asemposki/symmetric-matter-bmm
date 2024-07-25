@@ -1,0 +1,18 @@
+*.pdf
+*.PNG
+*.JPG
+*.npz
+*.txt
+*.ps
+*.eps
+gptools/
+gsum/
+nuclear-matter-convergence/
+*.csv
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.dat
+
+# IDE specifics
+.idea/
